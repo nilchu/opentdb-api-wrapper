@@ -1,0 +1,20 @@
+{
+  "name": "opentdb-api-wrapper",
+  "version": "1.0.0",
+  "description": "Javascript wrapper for the opentdb (open trivia database) API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wrapper",
+    "api",
+    "opentdb",
+    "javascript"
+  ],
+  "author": "Nils Schuberth",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
